@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilya Skvoznyakov
-- 🌱 I’m currently learning Theory of Software Testing and differents Tools for QA
-- 📫 How to reach me: phone +7(927)1438644 ; email iliaskvozniakov@mail.ru
+- 🌱 A manual QA engineer transitioning to fullstack test automation, specializing in Python.
+- 📫 How to reach me: phone +7(927)1438644 ; email iliaskvozniakov@mail.ru ; telegram @head662
 
 <!---
 iskvoznyakov/iskvoznyakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
